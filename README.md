@@ -1,5 +1,7 @@
-# PoketQuiz-AppSupport
+# PokeQuiz-AppSupport
 This is the official support page for the "자연이랑놀자" app.
+
+
 
 ---
 
@@ -37,7 +39,30 @@ Email: megaman826@gmail.com
 ---
 # [English]
 # App Overview
-"자연이랑놀자" helps children watch nature-related videos such as animals, insects, and fish in a safe and simple environment. The app uses an intuitive interface, and all content is built into the app for full offline use.
+
+**App Name:** PokeQuiz
+
+**Platform:** AOS/iOS
+
+**Category:** Game / Casual, Game / Quiz
+
+**App Type:** Offline single-player game
+
+**Description:**
+
+PokeQuiz is a fast-paced time-attack quiz game where players must correctly type the names of collectible monsters within a limited time. The game focuses on memory, recall speed, and knowledge across multiple generations of monster collections. The app is fully playable offline and does not require user accounts or personal data.
+
+# Review Access Information
+
+| 수집 항목 | 설명 |
+|-----------|------|
+| 앱 사용 데이터 | 사용 시간 및 사용 패턴 |
+| 화면 이동 정보 | 앱 내 화면 전환 기록 |
+| 기기 정보 | 기기 모델, OS 버전 |
+| 대략적 위치 | 국가/지역 수준 위치 |
+| 앱 버전 | 설치된 앱 버전 |
+| 오류 및 성능 데이터 | 크래시 및 성능 정보 |
+
 # How to Use
 1. Launch the app; it opens in landscape mode.
 2. Select a category (animals, insects, fish, etc.).
